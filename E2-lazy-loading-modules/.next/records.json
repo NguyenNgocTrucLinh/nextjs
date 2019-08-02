@@ -1,0 +1,37 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\88I8YIEmlcH7qFEfNjz9J\\pages\\_app.js": 3,
+      "static\\88I8YIEmlcH7qFEfNjz9J\\pages\\_error.js": 4,
+      "static\\88I8YIEmlcH7qFEfNjz9J\\pages\\about.js": 5,
+      "static\\88I8YIEmlcH7qFEfNjz9J\\pages\\index.js": 6,
+      "static\\88I8YIEmlcH7qFEfNjz9J\\pages\\post.js": 7,
+      "static\\62AhxGtVyv6YidGNTYw3n\\pages\\_app.js": 9,
+      "static\\62AhxGtVyv6YidGNTYw3n\\pages\\_error.js": 10,
+      "static\\62AhxGtVyv6YidGNTYw3n\\pages\\about.js": 11,
+      "static\\62AhxGtVyv6YidGNTYw3n\\pages\\index.js": 12,
+      "static\\62AhxGtVyv6YidGNTYw3n\\pages\\post.js": 13
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase": 8
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      2,
+      8,
+      9
+    ]
+  }
+}
